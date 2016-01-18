@@ -1,0 +1,82 @@
+@import "susy";
+
+/* Changing Susy default global settings */
+$susy: (
+  /* Tells Susy to use 12 columns */
+  columns: 12,
+  /* Tells Susy that the container has a max-width of 1120px */
+  container: 1120px,
+  /* Tells Susy to use border-box */
+  // debug: (image:show),
+  global-box-sizing: border-box
+  
+  );
+
+/* Makes border-box properties */
+@include border-box-sizing;
+
+
+// ========================================
+// Initial Layouts and positioning for document -- does not use susy
+// ========================================
+
+//set document height
+html, body{
+  height:100%;
+}
+
+//landing page slider height and setting fixed position to allow scroll
+div.fixed-content{
+  height:95%;
+  position: fixed;
+  .touch &{
+    position: relative;
+  }
+  z-index: 0;
+  top: 0; right: 0; bottom: 0; left: 0;
+}
+
+//this is the rest of the content that will scroll over the slider
+div.scroll-over-fixed-content{
+  height:100%;
+  width: 100%;
+  position: relative; /* this could be absolute depending on application*/
+  top:95%;
+  .touch &{
+    top: 0;
+  }
+  z-index: 100;
+}
+
+// min-height for sections
+section.full-width{
+  width: 100%;
+}
+
+
+
+// ========================================
+// First Section -Slider !!ALL SLIDER STYLES AND FORMATTING STORED IN _vendors.scss!!
+// ========================================
+
+// ========================================
+// Second Section -begin susy
+// ========================================
+
+
+//included on all sections
+.wrap{
+
+  @include container(1000px);
+  padding: 20% 0;
+  @include breakpoint($med){
+    padding: 12% 0;
+  }
+  @include breakpoint($lrg){
+    padding: 10% 0;
+  }
+}
+
+
+
+

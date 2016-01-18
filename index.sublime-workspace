@@ -1,0 +1,556 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"img",
+				"images"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"menu",
+				"menuWrapperOverlay"
+			],
+			[
+				"imae",
+				"imageOverlay"
+			],
+			[
+				"image",
+				"imageOverlay"
+			],
+			[
+				"ba",
+				"background-size"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"im",
+				"imagesLoaded"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"alig",
+				"vertical-align"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"vi",
+				"visibility"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"bl",
+				"black"
+			],
+			[
+				"b",
+				"border"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"Super",
+				"SuperType"
+			],
+			[
+				"Su",
+				"SuperType"
+			],
+			[
+				"pers",
+				"person2"
+			],
+			[
+				"sa",
+				"sayName"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"crea",
+				"createPerson"
+			],
+			[
+				"O",
+				"Object"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"to",
+				"toString"
+			],
+			[
+				"dis",
+				"displayInfo"
+			],
+			[
+				"if",
+				"if	if"
+			],
+			[
+				"is",
+				"isNaN"
+			],
+			[
+				"type",
+				"typeof"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"he",
+				"head	Tag"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"f",
+				"font-size"
+			],
+			[
+				"l",
+				"li	Tag"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"h",
+				"h3	Tag"
+			],
+			[
+				"p",
+				"phone"
+			],
+			[
+				"backgroun",
+				"background-image"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"t",
+				"text-align"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"for",
+				"for	for (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"fo",
+				"for	for (…) {…}"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"lint",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"linter sho",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: I",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 440.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/mac/Sites/saga2/index.html",
+		"/private/var/folders/78/3762n0wd4r10dwm309qg05z00000gn/T/TemporaryItems/SaveForWeb/BrowserPreview/BrowserPreview_tmp.html",
+		"/Users/mac/Sites/saga2/config.codekit",
+		"/Users/mac/Sites/test5/config.codekit",
+		"/Users/mac/Sites/saga2/config.rb",
+		"/Users/mac/Sites/test5/.htaccess",
+		"/Users/mac/Sites/test5/sass/main.scss",
+		"/Users/mac/Sites/test5/js/main.js",
+		"/Users/mac/Sites/test5/css/screen.css",
+		"/Users/mac/Desktop/compass-h5bp-master/test/project/sass/test.scss",
+		"/Users/mac/Desktop/compass-h5bp-master/test/project/sass/original.scss",
+		"/Users/mac/Desktop/compass-h5bp-master/lib/compass/h5bp/version.rb",
+		"/Users/mac/Desktop/compass-h5bp-master/lib/compass/h5bp.rb",
+		"/Users/mac/Desktop/compass-h5bp-master/lib/compass-h5bp.rb",
+		"/Users/mac/Desktop/compass-h5bp-master/config.rb",
+		"/Users/mac/Desktop/chapter3/index.html",
+		"/Users/mac/Sites/Starter/css/main.css",
+		"/Users/mac/Sites/Foundation/sass/main.css",
+		"/Users/mac/Movies/initializr/css/normalize.min.css",
+		"/Users/mac/Movies/initializr/css/main.css",
+		"/Users/mac/Sites/saga/js/picturefill.js",
+		"/Users/mac/Sites/saga/js/plugins.js",
+		"/Users/mac/Sites/saga/css/jquery.bxslider.css",
+		"/Users/mac/Sites/saga/css/main.css",
+		"/Users/mac/Sites/saga/js/main.js",
+		"/Users/mac/Sites/saga/index.html",
+		"/Users/mac/Movies/initializr/index.html",
+		"/Users/mac/Desktop/html5-boilerplate_v5.0.0/doc/css.md",
+		"/Users/mac/Sites/saga/css/flexslider.css",
+		"/Users/mac/Sites/saga/img/slick.min.js",
+		"/Users/mac/Sites/shabazz/index.html",
+		"/Users/mac/Sites/saga/MyFontsWebfontsKit/MyFontsWebfontsKit.css",
+		"/Users/mac/Sites/Maiko Round 2/css/main.css",
+		"/Users/mac/Sites/Maiko Round 2/about.html",
+		"/Users/mac/Sites/Maiko Round 2/contact.html",
+		"/Users/mac/Sites/Maiko Round 2/index.html",
+		"/Users/mac/Desktop/Maiko Round 2/initializr/index.html",
+		"/Users/mac/Desktop/robflaherty-photoshop-grids-ad4b0c4/readme.md",
+		"/Users/mac/Sites/Maiko Round 2/css/magnific-popup.css",
+		"/Users/mac/Desktop/Maiko Round 2/initializr/css/main.css",
+		"/Users/mac/Desktop/initializr/index.html",
+		"/Users/mac/Desktop/Maiko Round 2/initializr/js/jquery-2.1.1.min.js",
+		"/Users/mac/Websites/Maiko Remodel/css/main.css",
+		"/Users/mac/Desktop/isotope-docs/css/code.css",
+		"/Users/mac/Desktop/main.css",
+		"/Users/mac/Sites/SoundsofJapan/jquery-ui-1.11.0.custom/jquery-ui.css",
+		"/Users/mac/Desktop/test/prowebjs.js",
+		"/Users/mac/Desktop/test/test.html",
+		"/Users/mac/Desktop/I'm Evan, and I'm on an endless quest to rip open",
+		"/Users/mac/Desktop/prowebjs.js",
+		"/Users/mac/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/mac/Desktop/index.html",
+		"/Users/mac/Sites/shabazz/js/main.js",
+		"/Users/mac/Sites/shabazz/js/_main.js",
+		"/Users/mac/Sites/shabazz/MENU",
+		"/Users/mac/Sites/shabazz/css/main.css",
+		"/Users/mac/Sites/test/main.css",
+		"/Users/mac/Desktop/html5bones-1.6.3/main-template.html",
+		"/Users/mac/Sites/test/index.html",
+		"/Users/mac/Sites/test/jquery-ui.css",
+		"/Users/mac/Sites/test/jquery-ui.min.css",
+		"/Users/mac/Sites/test/jquery-ui-1.11.0.custom/index.html",
+		"/Users/mac/Sites/SoundsofJapan/js/player.js",
+		"/Users/mac/Sites/test/jQuery.jPlayer.2.6.0.source/jquery.jplayer.js",
+		"/Users/mac/Sites/SoundsofJapan/index.html",
+		"/Users/mac/Sites/SoundsofJapan/js/add-on/index.html",
+		"/Users/mac/Sites/SoundsofJapan/js/add-on/jquery.jplayer.inspector.js",
+		"/Users/mac/Sites/SoundsofJapan/js/jquery.jplayer.min.js",
+		"/Users/mac/Sites/SoundsofJapan/player.js",
+		"/Users/mac/Sites/SoundsofJapan/main.css",
+		"/Users/mac/Desktop/Projects/Sounds of Japan/index.html",
+		"/Users/mac/Desktop/Projects/Sounds of Japan/main.css",
+		"/Users/mac/Desktop/Projects/Sounds of Japan/normalize.css",
+		"/Users/mac/Desktop/Projects/Sounds of Japan/untitled",
+		"/Users/mac/Desktop/Treehouse/sass/main.css",
+		"/Users/mac/Desktop/Maiko Remodel/css/main.css",
+		"/Users/mac/Desktop/Maiko Remodel/css/responsive.css",
+		"/Users/mac/Desktop/Maiko Remodel/test.html",
+		"/Users/mac/Desktop/Maiko Remodel/sculpture.html",
+		"/Users/mac/Desktop/Maiko Remodel/work.html",
+		"/Users/mac/Desktop/Maiko Remodel/prosthetics.html",
+		"/Users/mac/Desktop/Maiko Remodel/portfolio.html",
+		"/Users/mac/Desktop/Maiko Remodel/landing.html",
+		"/Users/mac/Desktop/Maiko Remodel/fx.html",
+		"/Users/mac/Desktop/Maiko Remodel/contact.html",
+		"/Users/mac/Desktop/Maiko Remodel/beauty.html",
+		"/Users/mac/Desktop/Maiko Remodel/about.html",
+		"/Users/mac/Desktop/Maiko Remodel/css/contact.html",
+		"/Users/mac/Desktop/Maiko/Web/beauty.html",
+		"/Users/mac/Desktop/Maiko Remodel/index.html",
+		"/Users/mac/Desktop/Maiko Remodel/css/landing.css",
+		"/Users/mac/Desktop/Maiko/Web/js/jquery.gray.min.js",
+		"/Users/mac/Desktop/Treehouse/front end course/programming basics/poopy.js",
+		"/Users/mac/Desktop/Treehouse/front end course/programming basics/index.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"test5",
+			"-link",
+			"link",
+			"width",
+			"height",
+			"normali",
+			"    \n",
+			"fc",
+			"html",
+			"body",
+			" #",
+			".about, .work{\n    /*max-width: 95%;*/\n    /*margin: 0 auto;*/\n    text-align: center;\n    \n}",
+			"font",
+			"#",
+			"id",
+			"he",
+			"#plaxe",
+			"#000000",
+			"min-width",
+			"slider",
+			"landing.html",
+			"font-size"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

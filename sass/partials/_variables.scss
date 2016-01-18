@@ -1,0 +1,31 @@
+@import "breakpoint";
+
+// ========================================
+// Colors
+// ========================================
+$color1: #FF3F4A; //tomato
+$color2: #FFD5D7; //pink
+$color3: white;   //white
+$color4: #afdfe0; //blue
+
+
+// ========================================
+// Fonts
+// ========================================
+$aktiv:  "aktiv-grotesk-std",sans-serif;
+$futura: "futura-pt", sans-serif;
+// ========================================
+// Breakpoints
+// ========================================
+
+// For images in slider-one
+$med-img: 737px;
+$portrait-img: (min-width 737px) (orientation portrait);
+$lrg-img: 1025px;
+$xlrg-img: 1441px;
+
+
+  $small:    480px;
+  $med:   720px;
+  $lrg:    960px;
+  $xlrg:  1280px;
